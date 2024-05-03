@@ -160,7 +160,6 @@ body {
                   1px  1px 0 #fff;
 }
 
-
 .category-list li:hover a {
     display: block; /* Show text on hover */
 }
@@ -219,9 +218,9 @@ body {
     cursor: pointer;
   }
   
-
-footer {
-    background-color: #f1f1f1;
-    text-align: center;
-    padding: 2px 0;
-  }
+  footer {
+        background-color: #f1f1f1;
+        text-align: center;
+        padding: 2px 0;
+ 
+    }
